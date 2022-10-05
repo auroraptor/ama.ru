@@ -15,7 +15,7 @@
 * 🌟 Если включишь хотя бы один смайлик в свой вопрос, обратная связь может прийти быстрее!
 
 ## На английском / In English 
-[ На русском / In Russian](https://github.com/auroraptor/ama.ru) 🇷🇺 or [На английском / In English](https://github.com/auroraptor/ama) 🇬🇧🇺🇸.
+[ На русском / In Russian](https://github.com/auroraptor/ama.ru) 🇷🇺 или [На английском / In English](https://github.com/auroraptor/ama) 🇬🇧🇺🇸.
 
 ## Links
 * [Что за AMA?](https://en.wikipedia.org/wiki/Reddit#AMAs_(%22Ask_Me_Anything%22))
