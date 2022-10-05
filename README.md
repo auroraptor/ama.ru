@@ -1,4 +1,4 @@
-# Спроси меня о чем угодно!
+# Спроси меня о чем угодно! ![open issues](https://img.shields.io/github/issues-raw/auroraptor/ama.ru?color=%236A5ACD&style=flat-square)
 
 [<img src="https://img.shields.io/website?color=%239370DB&down_message=%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81&label=%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D1%8C&logo=github&style=for-the-badge&up_message=%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81&url=https%3A%2F%2Fgithub.com%2Fauroraptor%2Fama" alt="Задать вопрос">](https://github.com/auroraptor/ama.ru/issues/new)
 [<img src="https://img.shields.io/website?color=%2300FA9A&down_message=%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B&label=%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C&logo=github&style=for-the-badge&up_message=%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B&url=https%3A%2F%2Fgithub.com%2Fauroraptor%2Fama.ru" alt="Читать вопросы">](https://github.com/auroraptor/ama.ru/issues)
